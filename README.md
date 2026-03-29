@@ -92,7 +92,7 @@ This assignment implements a complete n8n-based AI Agent ecosystem with MCP infr
 
 ---
 
-### Task 1 Evidence
+### Task 1 Screenshots
 
 **MCP Server Workflow**
 
@@ -109,7 +109,7 @@ Show: Full workflow canvas with Telegram Trigger, AI Agent, Send Message
 Show: Tool nodes below (MCP Client, Calendar Create, Calendar List)  
 Confirm: Workflow is Published
 
-### Task 2 Evidence
+### Task 2 Screenshots
 
 **Telegram - Create Phases**
 
